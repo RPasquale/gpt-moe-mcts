@@ -10,7 +10,7 @@
 7. [Evaluation](#evaluation)
 8. [MCTS Decoding](#mcts-decoding)
 9. [Contributing](#contributing)
-10. [License](#license)
+
 
 ## Introduction
 
@@ -117,11 +117,7 @@ print(f"Generated text: {generated_text}")
 
 ## Contributing
 
-We welcome contributions to the GPT-MoE-MCTS project! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+We welcome contributions to the GPT-MoE-MCTS project! If you're interested in contributing, please visit our [GitHub repository](https://github.com/RPasquale/gpt-moe-mcts) for more information on how to get involved. You can submit issues, feature requests, or pull requests there.
 
 ---
 
