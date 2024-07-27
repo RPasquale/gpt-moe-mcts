@@ -40,7 +40,7 @@ The GPT-MoE-MCTS model consists of the following key components:
 To install the GPT-MoE-MCTS model, follow these steps:
 
 ```bash
-git clone https://github.com/yourusername/gpt-moe-mcts.git
+git clone https://github.com/RPasquale/gpt-moe-mcts.git
 cd gpt-moe-mcts
 pip install -r requirements.txt
 ```
