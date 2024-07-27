@@ -131,11 +131,13 @@ If you use GPT-MoE-MCTS in your research, please cite:
 
 ```
 @misc{GPT-MoE-MCTS,
-  author = {Your Name},
+  author = {Robbie Pasquale},
   title = {GPT-MoE-MCTS: GPT with Mixture of Experts and Monte Carlo Tree Search},
-  year = {2023},
+  year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/yourusername/gpt-moe-mcts}}
+  howpublished = {\url{https://github.com/RPasquale/gpt-moe-mcts}},
+  version = {1.0.0},
+  note = {This project is currently in development.}
 }
 ```
