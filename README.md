@@ -10,7 +10,7 @@
 7. [Evaluation](#evaluation)
 8. [MCTS Decoding](#mcts-decoding)
 9. [Contributing](#contributing)
-10. [License](#license)
+
 
 ## Introduction
 
