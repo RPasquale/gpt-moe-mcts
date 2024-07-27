@@ -119,6 +119,7 @@ print(f"Generated text: {generated_text}")
 
 We welcome contributions to the GPT-MoE-MCTS project! If you're interested in contributing, please visit our [GitHub repository](https://github.com/RPasquale/gpt-moe-mcts) for more information on how to get involved. You can submit issues, feature requests, or pull requests there.
 
+
 ---
 
 For more detailed information about the model architecture, training process, and advanced usage, please refer to our [documentation](docs/index.md).
