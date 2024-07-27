@@ -1,3 +1,19 @@
+---
+language:
+  - en
+tags:
+  - gpt
+  - mixture-of-experts
+  - monte-carlo-tree-search
+  - language-model
+license: mit
+datasets:
+  - Finewebedu
+metrics:
+  - perplexity
+  - accuracy
+---
+
 # GPT-MoE-MCTS: GPT with Mixture of Experts and Monte Carlo Tree Search
 
 ## Table of Contents
